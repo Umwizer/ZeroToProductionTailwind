@@ -81,4 +81,4 @@ added 21 packages, and audited 22 packages in 19s
   run `npm fund` for details
 
 found 0 vulnerabilities
-PS C:\TheGym\ZeroToProductionTailwind> npx tailwind init -p
+PS C:\TheGym\ZeroToProductionTailwind> npx tailwindcss init -p
